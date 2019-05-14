@@ -1,7 +1,0 @@
-	Bank Management System
-	From: http://www.cppforschool.com/projects.html
-
-
-
-        Author: Vinicius S. Patriota
-        Date: 14/05/2019   (DD/MM/YY)
