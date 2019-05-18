@@ -14,5 +14,6 @@ Proj 2 - Banking Management System Project
 Proj 3 - Student Report Card System Project
 
 -----------------------------------------
-OS: Win 10
+OS: Win 10     
+
 IDE: Qt creator
